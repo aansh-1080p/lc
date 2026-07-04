@@ -84,9 +84,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aansh-1080p/lc/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/aansh-1080p/lc/tree/master/0678-valid-parenthesis-string) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aansh-1080p/lc/tree/master/0094-binary-tree-inorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aansh-1080p/lc/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aansh-1080p/lc/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aansh-1080p/lc/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
