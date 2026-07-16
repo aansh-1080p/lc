@@ -97,10 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/aansh-1080p/lc/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aansh-1080p/lc/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/aansh-1080p/lc/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/aansh-1080p/lc/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aansh-1080p/lc/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aansh-1080p/lc/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/aansh-1080p/lc/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aansh-1080p/lc/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/aansh-1080p/lc/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aansh-1080p/lc/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
