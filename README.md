@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aansh-1080p/lc/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aansh-1080p/lc/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aansh-1080p/lc/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/aansh-1080p/lc/tree/master/0189-rotate-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aansh-1080p/lc/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/aansh-1080p/lc/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aansh-1080p/lc/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/aansh-1080p/lc/tree/master/0295-find-median-from-data-stream) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aansh-1080p/lc/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aansh-1080p/lc/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aansh-1080p/lc/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aansh-1080p/lc/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aansh-1080p/lc/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aansh-1080p/lc/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aansh-1080p/lc/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aansh-1080p/lc/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/aansh-1080p/lc/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aansh-1080p/lc/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aansh-1080p/lc/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aansh-1080p/lc/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 |  |
