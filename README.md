@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aansh-1080p/lc/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aansh-1080p/lc/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/aansh-1080p/lc/tree/master/0455-assign-cookies) |
+| [0846-hand-of-straights](https://github.com/aansh-1080p/lc/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/aansh-1080p/lc/tree/master/0860-lemonade-change) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aansh-1080p/lc/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1301-number-of-paths-with-max-score](https://github.com/aansh-1080p/lc/tree/master/1301-number-of-paths-with-max-score) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aansh-1080p/lc/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/aansh-1080p/lc/tree/master/0455-assign-cookies) |
+| [0846-hand-of-straights](https://github.com/aansh-1080p/lc/tree/master/0846-hand-of-straights) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aansh-1080p/lc/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aansh-1080p/lc/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Data Stream
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aansh-1080p/lc/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/aansh-1080p/lc/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/aansh-1080p/lc/tree/master/0678-valid-parenthesis-string) |
+| [0846-hand-of-straights](https://github.com/aansh-1080p/lc/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/aansh-1080p/lc/tree/master/0860-lemonade-change) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aansh-1080p/lc/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/aansh-1080p/lc/tree/master/0846-hand-of-straights) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aansh-1080p/lc/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aansh-1080p/lc/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
