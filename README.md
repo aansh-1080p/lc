@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aansh-1080p/lc/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aansh-1080p/lc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aansh-1080p/lc/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aansh-1080p/lc/tree/master/0045-jump-game-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aansh-1080p/lc/tree/master/0001-two-sum) |
 | [0846-hand-of-straights](https://github.com/aansh-1080p/lc/tree/master/0846-hand-of-straights) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aansh-1080p/lc/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aansh-1080p/lc/tree/master/3532-path-existence-queries-in-a-graph-i) |
