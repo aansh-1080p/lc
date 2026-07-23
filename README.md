@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aansh-1080p/lc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aansh-1080p/lc/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aansh-1080p/lc/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/aansh-1080p/lc/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aansh-1080p/lc/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/aansh-1080p/lc/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aansh-1080p/lc/tree/master/0189-rotate-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aansh-1080p/lc/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aansh-1080p/lc/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aansh-1080p/lc/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/aansh-1080p/lc/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aansh-1080p/lc/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aansh-1080p/lc/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/aansh-1080p/lc/tree/master/0678-valid-parenthesis-string) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aansh-1080p/lc/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aansh-1080p/lc/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
