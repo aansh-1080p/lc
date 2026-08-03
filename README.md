@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aansh-1080p/lc/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/aansh-1080p/lc/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/aansh-1080p/lc/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/aansh-1080p/lc/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aansh-1080p/lc/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aansh-1080p/lc/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aansh-1080p/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aansh-1080p/lc/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/aansh-1080p/lc/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/aansh-1080p/lc/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/aansh-1080p/lc/tree/master/1406-stone-game-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aansh-1080p/lc/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aansh-1080p/lc/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aansh-1080p/lc/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/aansh-1080p/lc/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/aansh-1080p/lc/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aansh-1080p/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/aansh-1080p/lc/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aansh-1080p/lc/tree/master/3312-sorted-gcd-pair-queries) |
@@ -301,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aansh-1080p/lc/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/aansh-1080p/lc/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
