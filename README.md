@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aansh-1080p/lc/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aansh-1080p/lc/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/aansh-1080p/lc/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/aansh-1080p/lc/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/aansh-1080p/lc/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aansh-1080p/lc/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/aansh-1080p/lc/tree/master/0455-assign-cookies) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aansh-1080p/lc/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/aansh-1080p/lc/tree/master/0162-find-peak-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aansh-1080p/lc/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aansh-1080p/lc/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aansh-1080p/lc/tree/master/3501-maximize-active-section-with-trade-ii) |
