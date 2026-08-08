@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aansh-1080p/lc/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/aansh-1080p/lc/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aansh-1080p/lc/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aansh-1080p/lc/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aansh-1080p/lc/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/aansh-1080p/lc/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aansh-1080p/lc/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/aansh-1080p/lc/tree/master/0877-stone-game) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aansh-1080p/lc/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/aansh-1080p/lc/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/aansh-1080p/lc/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aansh-1080p/lc/tree/master/0128-longest-consecutive-sequence) |
 | [0846-hand-of-straights](https://github.com/aansh-1080p/lc/tree/master/0846-hand-of-straights) |
