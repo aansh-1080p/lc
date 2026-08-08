@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/aansh-1080p/lc/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/aansh-1080p/lc/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aansh-1080p/lc/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aansh-1080p/lc/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aansh-1080p/lc/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aansh-1080p/lc/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/aansh-1080p/lc/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aansh-1080p/lc/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aansh-1080p/lc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aansh-1080p/lc/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aansh-1080p/lc/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aansh-1080p/lc/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aansh-1080p/lc/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aansh-1080p/lc/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aansh-1080p/lc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aansh-1080p/lc/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aansh-1080p/lc/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aansh-1080p/lc/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aansh-1080p/lc/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aansh-1080p/lc/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/aansh-1080p/lc/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/aansh-1080p/lc/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aansh-1080p/lc/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aansh-1080p/lc/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
