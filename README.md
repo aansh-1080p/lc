@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aansh-1080p/lc/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aansh-1080p/lc/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/aansh-1080p/lc/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/aansh-1080p/lc/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aansh-1080p/lc/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aansh-1080p/lc/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aansh-1080p/lc/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aansh-1080p/lc/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aansh-1080p/lc/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/aansh-1080p/lc/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aansh-1080p/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/aansh-1080p/lc/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aansh-1080p/lc/tree/master/3312-sorted-gcd-pair-queries) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aansh-1080p/lc/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aansh-1080p/lc/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aansh-1080p/lc/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/aansh-1080p/lc/tree/master/1510-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -347,8 +350,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/aansh-1080p/lc/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/aansh-1080p/lc/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/aansh-1080p/lc/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/aansh-1080p/lc/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/aansh-1080p/lc/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/aansh-1080p/lc/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
