@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aansh-1080p/lc/tree/master/0485-max-consecutive-ones) |
 | [0846-hand-of-straights](https://github.com/aansh-1080p/lc/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/aansh-1080p/lc/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/aansh-1080p/lc/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aansh-1080p/lc/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aansh-1080p/lc/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/aansh-1080p/lc/tree/master/1140-stone-game-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/aansh-1080p/lc/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/aansh-1080p/lc/tree/master/0162-find-peak-element) |
+| [0875-koko-eating-bananas](https://github.com/aansh-1080p/lc/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aansh-1080p/lc/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aansh-1080p/lc/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aansh-1080p/lc/tree/master/3501-maximize-active-section-with-trade-ii) |
