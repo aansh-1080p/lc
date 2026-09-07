@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aansh-1080p/lc/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aansh-1080p/lc/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/aansh-1080p/lc/tree/master/0767-reorganize-string) |
+| [0940-distinct-subsequences-ii](https://github.com/aansh-1080p/lc/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aansh-1080p/lc/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aansh-1080p/lc/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aansh-1080p/lc/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/aansh-1080p/lc/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/aansh-1080p/lc/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/aansh-1080p/lc/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/aansh-1080p/lc/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/aansh-1080p/lc/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aansh-1080p/lc/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/aansh-1080p/lc/tree/master/1406-stone-game-iii) |
