@@ -1,67 +1,22 @@
-// class Solution {
-// public:
-//     int longestValidParentheses(string s) {
-//         int n=s.size();
-//         int l = 0, r = 0, mx = 0, ans = 0;
-//         for (char c : s) {
-//             if (c == '(')
-//                 l++;
-//             else {
-//                 r++;
-//             }
-//             if (l == r) {
-//                 mx = l * 2;
-//                 ans = max(mx, ans);
-//             }
-//             if (r > l)
-//                 l = 0, r = 0;
-//         }
-
-//         for (int i = n - 1; i >= 0; i--) {
-//             if (s[i] == '(')
-//                 l++;
-//             else
-//                 r++;
-//             if (l == r)
-//             {mx = l*2;
-//                 ans = max(ans,mx);
-//                 }
-//             if (l > r)
-//                 l = r = 0;
-//         }
-
-//         return ans;
-//     }
-// };
 class Solution {
 public:
-    int longestValidParentheses(string s) {
-        int l = 0, r = 0, ans = 0;
-
-        for(char c : s) {
-            if(c == '(') l++;
-            else r++;
-
-            if(l == r)
-                ans = max(ans, 2 * l);
-
-            if(r > l)
-                l = r = 0;
+    int longestValidParentheses(auto& s) {
+        int res = 0;
+        vector<int> stack = {-1};
+        
+        for (int i = 0; i < s.size(); i++) {
+            if (s[i] == '(')
+                stack.push_back(i);
+            else {
+                stack.pop_back();
+                
+                if (stack.empty())
+                    stack.push_back(i);
+                else
+                    res = max(res, i - stack.back());
+            }
         }
-
-        l = r = 0;
-
-        for(int i = s.size() - 1; i >= 0; i--) {
-            if(s[i] == '(') l++;
-            else r++;
-
-            if(l == r)
-                ans = max(ans, 2 * l);
-
-            if(l > r)
-                l = r = 0;
-        }
-
-        return ans;
+        
+        return res;
     }
 };
