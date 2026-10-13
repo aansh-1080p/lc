@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aansh-1080p/lc/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aansh-1080p/lc/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aansh-1080p/lc/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aansh-1080p/lc/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/aansh-1080p/lc/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aansh-1080p/lc/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/aansh-1080p/lc/tree/master/3903-smallest-stable-index-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aansh-1080p/lc/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aansh-1080p/lc/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aansh-1080p/lc/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aansh-1080p/lc/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/aansh-1080p/lc/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aansh-1080p/lc/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Data Stream
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aansh-1080p/lc/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aansh-1080p/lc/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aansh-1080p/lc/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aansh-1080p/lc/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Graph Theory
 |  |
 | ------- |
