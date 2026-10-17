@@ -1,29 +1,28 @@
 class Solution {
-    private:
-    bool sovle(vector<int>& nums, int threshold, int mid){
-        int sum=0;
-        for(int x:nums){
-            sum+=ceil((double)x/mid);
-        }
-        return sum<=threshold;
-
-    }
 public:
     int smallestDivisor(vector<int>& nums, int threshold) {
-        int l=1;
-        int r=*max_element(nums.begin(),nums.end());
-        int div=r;
-        while(l<r){
-           int mid = l + (r - l) / 2;
-            if(sovle(nums,threshold,mid)){
-                div=mid;
-                r = mid;
+        int n=nums.size();
+        int start=1,end=INT_MIN;
+        for(int i=0;i<n;i++){
+            end=max(end,nums[i]);
+        }
+
+        int mid, ans=end;
+        while(start<=end){
+            mid=start+(end-start)/2;
+            int sum=0;
+            for(int i=0;i<n;i++){
+                sum+=(nums[i]+mid-1)/mid;
             }
-            else{
-                l=mid+1;
+            if(sum<=threshold){
+                ans=mid;
+                end=mid-1;
+            }
+            else if(sum>threshold){
+                start=mid+1;
             }
 
         }
-        return div;
+        return ans;
     }
 };
