@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aansh-1080p/lc/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/aansh-1080p/lc/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/aansh-1080p/lc/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aansh-1080p/lc/tree/master/0189-rotate-array) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aansh-1080p/lc/tree/master/0002-add-two-numbers) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aansh-1080p/lc/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Geometry
 |  |
@@ -506,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aansh-1080p/lc/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aansh-1080p/lc/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
