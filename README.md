@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aansh-1080p/lc/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/aansh-1080p/lc/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aansh-1080p/lc/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aansh-1080p/lc/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/aansh-1080p/lc/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aansh-1080p/lc/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aansh-1080p/lc/tree/master/0540-single-element-in-a-sorted-array) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aansh-1080p/lc/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/aansh-1080p/lc/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aansh-1080p/lc/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aansh-1080p/lc/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/aansh-1080p/lc/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aansh-1080p/lc/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aansh-1080p/lc/tree/master/1140-stone-game-ii) |
